@@ -17,7 +17,7 @@
       "128": "icons/128.png"
     }
   },
-  "permissions": ["activeTab", "scripting", "tabs"],
+  "permissions": ["scripting", "tabs"],
   "background": {
     "service_worker": "background.js",
     "type": "module"
@@ -36,6 +36,5 @@
       "matches": ["<all_urls>"],
       "resources": ["icons/128.png"]
     }
-  ],
-  "host_permissions": ["https://*.leboncoin.fr/*"]
+  ]
 }
