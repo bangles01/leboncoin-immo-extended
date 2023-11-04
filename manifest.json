@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "LeBonCoin Immo Extended",
+  "name": "Leboncoin Immo Extended",
   "description": "Display additional and revelant informations about real estate sales and rentals on LeBonCoin.fr",
   "version": "1.0.0",
   "icons": {
